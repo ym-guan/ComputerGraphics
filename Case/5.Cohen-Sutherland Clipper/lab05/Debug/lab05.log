@@ -1,0 +1,4 @@
+﻿  lab05.cpp
+D:\Dev\Workspace\ComputerGraphProject\lab05\lab05\lab05.cpp(76,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\Dev\Workspace\ComputerGraphProject\lab05\lab05\lab05.cpp(143,20): warning C4018: “<”: 有符号/无符号不匹配
+  lab05.vcxproj -> D:\Dev\Workspace\ComputerGraphProject\lab05\Debug\lab05.exe

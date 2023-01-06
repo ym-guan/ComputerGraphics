@@ -1,0 +1,3 @@
+﻿  lab09.cpp
+D:\Dev\Workspace\ComputerGraphProject\lab09\lab09\lab09.cpp(80): warning C4715: “Mesh::readMesh”: 不是所有的控件路径都返回值
+  lab09.vcxproj -> D:\Dev\Workspace\ComputerGraphProject\lab09\Debug\lab09.exe
