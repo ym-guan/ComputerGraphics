@@ -8,13 +8,13 @@
 
 ### 1.Draw the function
 
-[1.Draw the function](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/1.Draw the function)
+[1.Draw_the_function](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/1.Draw_the_function)
 
 运行程序出现一个在窗口（视口）中间的函数
 
 ### 2.Polyline Editor
 
-[2.Polyline Editor](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/2.Polyline Editor)
+[2.Polyline_Editor](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/2.Polyline_Editor)
 
 运行程序出现一个未画完的房子，按下鼠标左键继续画房子，按下鼠标右键拖动某一个点，按下鼠标中间删除某一个点。
 
@@ -22,7 +22,7 @@
 
 Case study 3.2  Page 115
 
-[3.Cohen-Sutherland Clipper](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/3.Cohen-Sutherland Clipper)
+[3.Cohen-Sutherland_Clipper](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/3.Cohen-Sutherland_Clipper)
 
 运行程序出现一个矩形和多条线段，矩形内被裁剪的部分为红色，矩形外未被裁剪的部分为黑色，按下“r”重新刷新线段
 
@@ -30,7 +30,7 @@ Case study 3.2  Page 115
 
 Case Study 4.1 Page 168
 
-[4.Animation with tweeing](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/4.Animation with tweeing)
+[4.Animation_with_tweeing](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/4.Animation_with_tweeing)
 
 点击鼠标左键画第一个多边形，点击鼠标右键画第二个多边形，按下“b”出现从第一个多边形到第二个四边形的渐变动画
 
@@ -38,7 +38,7 @@ Case Study 4.1 Page 168
 
 Case Study 4.5 page 172
 
-[5.Cohen-Sutherland Clipper](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/5.Cohen-Sutherland Clipper)
+[5.Cohen-Sutherland_Clipper](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/5.Cohen-Sutherland_Clipper)
 
 点击鼠标左键画多边形，画完后点击右键刷新被切割的线段。多边形内被裁剪的部分为红色，多边形外未被裁剪的部分为黑色
 
@@ -54,7 +54,7 @@ Case Study 6.1 page 288
 
 Case Study 7.1 page 355
 
-[10_11.Flying a Camera through a scene](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/10_11.Flying a Camera through a scene)
+[10_11.Flying_Camera_through_scene](https://github.com/ym-guan/ComputerGraphics/tree/main/Case/10_11.Flying_Camera_through_scene)
 
 运行程序出现两个立方体和一个绿色地面
 
